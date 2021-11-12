@@ -3,6 +3,7 @@
 [![Build Status](https://app.travis-ci.com/yfxie/active_storage_variantt.svg?branch=main)](https://app.travis-ci.com/yfxie/active_storage_variantt)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c5fc76fb8a53a1b14901/maintainability)](https://codeclimate.com/github/yfxie/active_storage_variantt/maintainability)
 [![codecov](https://codecov.io/gh/yfxie/active_storage_variantt/branch/main/graph/badge.svg?token=GJ3JTFRLBI)](https://codecov.io/gh/yfxie/active_storage_variantt)
+[![Gem Version](https://badge.fury.io/rb/active_storage_variant.svg)](https://badge.fury.io/rb/active_storage_variant)
 
 The [pre-defined variants feature](https://github.com/rails/rails/pull/39135) is a very convenient feature.
 It's something like the styles option in Paperclip gem. Without it, it is a pain to use ActiveStorage as an alternative to Paperclip.  Thanks to @fatkodima for the contribution.
